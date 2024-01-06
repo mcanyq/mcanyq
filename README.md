@@ -4,5 +4,5 @@
 
 - 🌱 I’m currently learning all aspects of Web3 Development and full stack web development
 
-- 📫 How to reach me muhammetcanyilmaz2626@gmail.com
+- 📫 How to reach me muhammetcanyilmaz262@gmail.com
 
