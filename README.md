@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mcanyq
 
-- 👀 I’m interested in Web3 and full stack web development
+- 👀 I’m interested in software development
 
-- 🌱 I’m currently learning all aspects of Web3 Development
+- 🌱 I’m currently learning software development
 
 - 📫 How to reach me muhammetcanyilmaz262@gmail.com
 
